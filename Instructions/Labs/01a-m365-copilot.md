@@ -181,7 +181,7 @@ You've created some collateral to help you get your business started. Now it's t
     Copilot should respond with a summary of your scheduled events for the week - helping you identify availability for a meeting with a bank manager to arrange startup funding.
 
 1. Switch to the **Mail** page and create a new email, and fill in the **To** box with your own email address.
-1. Select the option to **Draft with Copilot**:
+1. Select the option to **Help me write and email**:
 
     ![Screenshot of Outlook and the option to draft an email with Copilot.](./Media/copilot-draft-email-outlook.png)
     
@@ -191,7 +191,7 @@ You've created some collateral to help you get your business started. Now it's t
     Write an email to a bank manager requesting a meeting to discuss funding for a commercial cleaning business. The email should be concise and the tone should be professional.
     ```
 
-1. Use Copilot to refine the email content, and then select **Keep it** to finalize the message.
+1. Use Copilot to refine the email content.
 
     ![Screenshot of drafting an email with Copilot in Outlook.](./Media/copilot-draft-email-adjust-tone-outlook.png)
 
