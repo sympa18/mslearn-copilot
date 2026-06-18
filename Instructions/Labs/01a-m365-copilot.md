@@ -135,7 +135,7 @@ With a business plan in hand, let's take some of that data on financial projecti
 
     > **Tip**: If Copilot suggests a different format for the data, enter the follow-on prompt `Visualize the data as a line chart.`.
 
-1. Select the option in the Copilot response to add the pivot chart to a new sheet and open it. Select the chart and then select **Design** to apply styles, change the chart type and other actions. At the end, you should have something that resembles this:
+1. Select the option in the Copilot response to add the pivot chart to a new sheet and open it. Select the chart to apply styles, change the chart type and other actions. At the end, you should have something that resembles this:
 
     ![Screenshot of Copilot in Excel adding a PivotChart.](./Media/copilot-excel-chart-design.png)
 
